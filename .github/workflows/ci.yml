@@ -15,8 +15,8 @@ jobs:
 
       - name: download
         run: |
-          git config --local user.email "justjavac@gmail.com"
-          git config --local user.name "迷渡"
+          git config --local user.email "444856601@qq.com"
+          git config --local user.name "Li0622"
           git lfs install
           git lfs track "*.mp4"
           git add .gitattributes
